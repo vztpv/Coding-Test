@@ -3,4 +3,5 @@
 3. 누적 곱?
 4. 어떤 군(group)?
 5. 병렬화?
-  - simd, thread, ...
+
+    simd, thread, ...
