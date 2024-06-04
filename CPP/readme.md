@@ -1,2 +1,2 @@
-1. std::vector vs std::stack
-2. std::vector<bool> vs std::vector<uint8_t>
+    std::vector vs std::stack
+    std::vector<bool> vs std::vector<uint8_t>
